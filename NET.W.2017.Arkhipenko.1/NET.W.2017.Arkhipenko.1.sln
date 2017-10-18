@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortMerge", "SortMerge\SortMerge.csproj", "{8F3F92FA-3588-414F-9120-EF45870B678D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleStudent", "ConsoleApp1\ConsoleStudent.csproj", "{40758455-BE74-44D1-8D2E-A386BFFCC260}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{8F3F92FA-3588-414F-9120-EF45870B678D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F3F92FA-3588-414F-9120-EF45870B678D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F3F92FA-3588-414F-9120-EF45870B678D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40758455-BE74-44D1-8D2E-A386BFFCC260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40758455-BE74-44D1-8D2E-A386BFFCC260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40758455-BE74-44D1-8D2E-A386BFFCC260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40758455-BE74-44D1-8D2E-A386BFFCC260}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
